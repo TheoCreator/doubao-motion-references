@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "purpose": "Public motion references for Doubao video generation",
+  "references": [
+    {
+      "character": "Rhea",
+      "action": "walk",
+      "appearance": "equipped",
+      "status": "user-approved motion source",
+      "file": "videos/rhea/walk-equipped-approved-d5708aa79b0a1473.mp4",
+      "sha256": "d5708aa79b0a1473e5ffe4d628403987f52f495f3110325834a17b9130011f52",
+      "bytes": 947259,
+      "fps": 24,
+      "approved_game_loop": {
+        "zero_based_source_frames": [
+          69,
+          91
+        ],
+        "inclusive": true
+      },
+      "reference_scope": "Motion only when generating the unequipped body; identity and colors come from the separately selected character image.",
+      "upload_commit_sha": "54a5c1664d7af98d154fcb751d04a72f535446e4",
+      "raw_url": "https://raw.githubusercontent.com/TheoCreator/doubao-motion-references/54a5c1664d7af98d154fcb751d04a72f535446e4/videos/rhea/walk-equipped-approved-d5708aa79b0a1473.mp4"
+    }
+  ]
+}
