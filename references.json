@@ -21,6 +21,36 @@
       "reference_scope": "Motion only when generating the unequipped body; identity and colors come from the separately selected character image.",
       "upload_commit_sha": "54a5c1664d7af98d154fcb751d04a72f535446e4",
       "raw_url": "https://raw.githubusercontent.com/TheoCreator/doubao-motion-references/54a5c1664d7af98d154fcb751d04a72f535446e4/videos/rhea/walk-equipped-approved-d5708aa79b0a1473.mp4"
+    },
+    {
+      "character": "Rhea",
+      "action": "idle",
+      "appearance": "unequipped",
+      "status": "user-approved Idle6 reconstructed from runtime sprites",
+      "file": "videos/rhea/idle6-approved-motion-fe4ae200ddd1416b.mp4",
+      "sha256": "fe4ae200ddd1416b4151dacbc5cf02749a8c045279fb9e9556c4eb7622c6f631",
+      "bytes": 602056,
+      "fps": 30,
+      "duration": 9.6,
+      "approved_game_loop": {
+        "cycle": 3.2,
+        "atlas_sequence": [
+          0,
+          2,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "blink_slot": 1,
+        "blink_exposure": 0.1
+      },
+      "reference_scope": "Motion only. New equipped identity and proportions come exclusively from separate equipped reference image. Not a wardrobe workflow.",
+      "upload_commit_sha": "0a87c4d71e1a7f85db1724c91e5ddd9b444c587c",
+      "raw_url": "https://raw.githubusercontent.com/TheoCreator/doubao-motion-references/0a87c4d71e1a7f85db1724c91e5ddd9b444c587c/videos/rhea/idle6-approved-motion-fe4ae200ddd1416b.mp4"
     }
   ]
 }
